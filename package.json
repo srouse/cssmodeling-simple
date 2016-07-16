@@ -1,0 +1,25 @@
+{
+	"name": "cssmodeling-simple",
+	"description": "CSS System for Declarative Simple Design System",
+	"author": "srouse",
+	"version": "0.0.1",
+	"dependencies": {
+	},
+	"devDependencies": {
+        "grunt": "^0.4.5",
+        "cssmodeling":"~0.1"
+	},
+	"main": "",
+	"scripts": {
+	    "test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/srouse/cssmodeling-simple.git"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://catapult.studio/bugs"
+	},
+	"homepage": "https://catapult.studio"
+}
